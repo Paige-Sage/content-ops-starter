@@ -4,17 +4,15 @@ slug: /about
 sections:
   - type: GenericSection
     title:
-      text: About Paige & Sage
+      text: About Sage & Paige
       color: text-dark
       type: TitleBlock
-    subtitle: Two middle schoolers sharing their adventures with Fitz the cat
+    subtitle: Two middle schoolers sharing their adventures with animals
     text: >
       Welcome to our corner of the internet! We're two friends who decided to
-      create this site to share pictures and stories about our cat Fitz (and his
-      sister Biana). What started as a simple idea turned into a fun project
-      where we can practice our web development skills and share our love for
-      our furry friends.
-
+      create this site to share pictures and stories about our pets. What 
+      started as a simple idea turned into a fun project where we can share our
+      love for our furry friends.
 
       We're both in 7th grade at Northwest School and share a passion for music
       and theatre. When we're not posting about cats, you can find us practicing
@@ -23,7 +21,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Fitz1.jpg
+      url: /images/Fitz2.jpg
       altText: Fitz the cat
       styles:
         self:
@@ -61,8 +59,8 @@ sections:
 seo:
   metaTitle: About Us - Paige & Sage
   metaDescription: >-
-    Learn about Paige and Sage, two middle school friends sharing their
-    adventures with Fitz the cat and other furry friends.
+    Learn about Sage and Paige, two middle school friends sharing their
+    adventures with cats and other furry friends.
   socialImage: /images/Fitz1.jpg
   type: Seo
 type: PageLayout
