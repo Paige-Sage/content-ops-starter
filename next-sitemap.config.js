@@ -1,11 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://paige-sage.netlify.app',
+  siteUrl: process.env.SITE_URL || 'https://paigeandsage.club',
   generateRobotsTxt: true,
-  exclude: ['/server-sitemap.xml'],
-  robotsTxtOptions: {
-    additionalSitemaps: [
-      'https://paige-sage.netlify.app/server-sitemap.xml',
-    ],
-  },
+  exclude: ['/pricing', '/careers'],
 }
