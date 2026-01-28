@@ -25,6 +25,8 @@ type: PostLayout
 author: content/data/person2.json
 ---
 
+![Biana the cat](/images/Biana1.jpg)
+
 If you've been following Fitz's adventures, you might be wondering about his sister. Let me introduce you to Biana - Fitz's litter-mate and a cat with quite the origin story.
 
 ## A Dramatic Beginning
