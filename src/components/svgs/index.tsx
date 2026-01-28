@@ -22,6 +22,8 @@ import ShoppingBag from './shopping-bag';
 import Twitter from './twitter';
 import Vimeo from './vimeo';
 import YouTube from './youtube';
+import Linktree from './linktree';
+import Backstage from './backstage';
 
 export const iconMap = {
     arrowDown: ArrowDown,
@@ -47,5 +49,7 @@ export const iconMap = {
     shoppingBag: ShoppingBag,
     twitter: Twitter,
     vimeo: Vimeo,
-    youtube: YouTube
+    youtube: YouTube,
+    linktree: Linktree,
+    backstage: Backstage
 };
