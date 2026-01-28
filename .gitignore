@@ -19,6 +19,10 @@
 # production
 /build
 
+# sitemap (generated during build)
+/public/sitemap*.xml
+/public/robots.txt
+
 # misc
 .DS_Store
 *.pem
