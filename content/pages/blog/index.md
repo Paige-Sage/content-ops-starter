@@ -5,12 +5,12 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Latest Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Check out what's new with Fitz!
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/fitz-and-the-bearded-dragon.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -31,11 +31,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog - Paige & Sage's Adventures
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+    Follow along with Fitz the cat and our other adventures!
+  socialImage: /images/lizardAndCat.jpg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
