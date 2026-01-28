@@ -4,45 +4,13 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "A website for sharing cute cat pictures and other fun stuff",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Pages",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Home",
                 "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,49 +29,26 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Sage's YouTube",
+            "url": "https://youtube.com/@Sage-OnStage",
+            "icon": "youtube",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Sage's Linktree",
+            "url": "https://linktr.ee/sage.w",
+            "icon": "linktree",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
+            "altText": "Sage's Backstage",
+            "url": "https://www.backstage.com/u/sagew/",
+            "icon": "backstage",
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "legalLinks": [],
+    "copyrightText": "Made with ❤️",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
