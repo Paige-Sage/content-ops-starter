@@ -22,7 +22,7 @@ styles:
   self:
     flexDirection: row
 type: PostLayout
-author: content/data/person1.json
+author: content/data/person2.json
 ---
 
 When we first got our bearded dragon, we weren't sure how Fitz would react. Cats are natural hunters, after all, and a lizard basking under a heat lamp seemed like it might be too tempting. But Fitz has surprised us in the best way possible.
