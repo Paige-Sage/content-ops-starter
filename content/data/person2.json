@@ -1,10 +1,9 @@
 {
-    "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Sage",
+    "role": "Middle School Student & Performer",
     "image": {
         "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
+        "altText": "Sage",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -16,7 +15,6 @@
         "type": "ImageBlock"
     },
     "colors": "bg-light-fg-dark",
-    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -33,5 +31,6 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "type": "Person",
+    "bio": "7th grader at Northwest School. Plays violin and performs in musicals with Broadway Bound. Owner of cats, dogs, and a bearded dragon."
 }
