@@ -31,6 +31,7 @@ function Page(props) {
                     }
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
+                <meta httpEquiv="content-language" content="en-US" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
