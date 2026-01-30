@@ -62,6 +62,10 @@ seo:
     Learn about Sage and Paige, two middle school friends sharing their
     adventures with cats and other furry friends.
   socialImage: /images/Fitz1.jpg
+  metaTags:
+    - type: MetaTag
+      property: 'author'
+      content: 'Sage Waliczek'
   type: Seo
 type: PageLayout
 ---
